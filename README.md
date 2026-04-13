@@ -7,3 +7,16 @@ This project aims to predict the level of engagement a Facebook post will receiv
 ## Problem Statement
 Social media content does not perform equally, and predicting engagement in advance can help improve decision-making. This project focuses on building a model that estimates how well a Facebook post will perform before it is published.
 
+## Dataset
+
+
+The dataset used is dataset_Facebook.csv, which contains real-world Facebook post data.
+
+### Key Features Include
+<ul>
+<li>Post type</li>
+<li>Category</li>
+<li>Posting time</li>
+<li>Paid vs organic reach</li>
+<li>Likes, shares, and comments</li>
+</ul>
