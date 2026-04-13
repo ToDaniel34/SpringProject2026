@@ -3,6 +3,11 @@
 ## Project Overview
 This project aims to predict the level of engagement a Facebook post will receive based on its characteristics. Engagement is defined as the total number of likes, shares, and comments. The goal is to use machine learning to better understand what factors influence post performance and help optimize social media strategies.
 
+## Why this Dataset
+The dataset was chosen because it represents a real-world problem in social media and digital marketing, where understanding user engagement is essential. It is particularly interesting because it combines content features (such as post type and category) with performance metrics, allowing for meaningful analysis of what drives engagement. Additionally, the dataset is structured and suitable for applying machine learning techniques, making it a good fit for predictive modeling.
+
+The potential value of this model lies in its ability to support data-driven decision-making. By predicting engagement before a post is published, businesses and content creators can optimize their strategies, choose more effective content types, and improve posting decisions. This can lead to increased audience reach, better marketing performance, and more efficient use of resources.
+
 
 ## Problem Statement
 Social media content does not perform equally, and predicting engagement in advance can help improve decision-making. This project focuses on building a model that estimates how well a Facebook post will perform before it is published.
